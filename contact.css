@@ -1,0 +1,81 @@
+body{
+    background-color: #42586F;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Josefin Slab', serif;
+}
+
+.main{
+    margin: auto;
+    width: 70%;
+    background-color: #E2D3BC;
+}
+
+header{
+    display: flex;
+    padding: 40px 40px 30px 40px;
+    justify-content:space-between;
+    align-items:center;
+}
+
+h1{
+    text-align: center;
+    font-size: 3.5em;
+}
+
+#logo{
+    width: 100px;
+}
+
+nav{
+    background-color: #48494D;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#contact{
+    color: gray;
+}
+
+a:visited{
+    color: white;
+}
+
+
+ul li{
+    list-style: none;
+    display: inline;
+}
+
+li{
+    padding: 20px 0 20px 0;
+    font-size: 2em;
+}
+
+ul{
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contactGroup{
+    display: flex;
+    margin: 50px 100px 50px 100px;
+}
+
+form, section{
+    width: 50%;
+}
+
+section{
+    padding-right: 20px;
+}
+
+form{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
