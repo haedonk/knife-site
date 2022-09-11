@@ -38,13 +38,14 @@ a{
     color: white;
 }
 
+#shop{
+    color: gray;
+}
+
 a:visited{
     color: white;
 }
 
-#knifeGallery{
-    color: gray;
-}
 
 ul li{
     list-style: none;
@@ -61,20 +62,3 @@ ul{
     display: flex;
     justify-content: space-around;
 }
-
-
-section{
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
-
-#knifePic{
-    width: 350px;
-    height: 100%;
-}
-
-.myContainer{
-    padding: 15px;
-}
-
