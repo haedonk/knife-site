@@ -1,0 +1,75 @@
+
+
+@media (max-width: 560px) {
+
+    header{
+        padding: 10px !important;
+    }
+
+    #knifePic{
+        width: 220px !important;
+    }
+}
+
+@media (max-width: 650px) {
+
+    .main{
+        width: 85% !important;
+    }
+
+    header{
+        justify-content: center !important;
+    }
+
+
+    #logo{
+        display: none;
+    }
+
+    #webTitle{
+        font-size: 40px;
+    }
+
+}
+
+
+@media (max-width: 1050px) {
+
+    .topNav{
+        margin: 0;
+    }
+
+    .responsive{
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center;
+    }
+
+    #myTopNav{
+        display: none;
+    }
+
+    .first{
+        margin: 8px 0 4px 0 !important;
+    }
+
+    .first, .mid, .last{
+        margin: 4px;
+    }
+
+    .last{
+        margin-bottom: 8px;
+    }
+
+    .icon {
+        width: 35px;
+        height: 5px;
+        background-color: white;
+    }
+
+    .iconCont{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
