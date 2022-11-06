@@ -1,5 +1,25 @@
 
 
+
+#insta{
+    width: 100px;
+}
+
+footer{
+    background-color: #48494D;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+article{
+    margin-bottom: 100px;
+}
+
+
+
+
+
 @media (max-width: 560px) {
 
     header{
