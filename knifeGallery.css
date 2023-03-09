@@ -68,7 +68,7 @@ ul{
 
 section{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap;
 }
 
@@ -81,3 +81,7 @@ section{
     padding: 15px;
 }
 
+footer{
+    border-top: solid;
+    border-color: #AC7054;
+}

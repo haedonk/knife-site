@@ -69,3 +69,9 @@ ul{
 .test{
     padding-top: 50px;
 }
+
+
+footer{
+    border-top: solid;
+    border-color: #AC7054;
+}

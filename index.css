@@ -89,3 +89,9 @@ h2{
 p{
     font-size: 1.5em;
 }
+
+
+footer{
+    border-top: solid;
+    border-color: #AC7054;
+}

@@ -85,6 +85,12 @@ form{
     flex-direction: column;
 }
 
+
+footer{
+    border-top: solid;
+    border-color: #AC7054;
+}
+
 @media (max-width: 450px) {
     .contactGroup{
         margin: 10px !important;
